@@ -100,3 +100,4 @@ substring = input("Введите подстроку: ")
 result = count_overlapping_substrings(main_string, substring)
 print(f"Количество вхождений подстроки в строку: {result}")
 
+#
